@@ -7,5 +7,7 @@ Tamarind
 Cucumber
 Salt
 Chilli Powder
+Black Beans
+Sugar
 
 Thanks and regards
